@@ -1,0 +1,1 @@
+body{align-items:center;justify-content:center}.timer,body{display:flex}.timer{width:500px;justify-content:space-between}.field{display:flex;flex-direction:column;align-items:center;color:#313131}.value{font-size:5rem}
